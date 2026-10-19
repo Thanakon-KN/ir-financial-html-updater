@@ -1,0 +1,4 @@
+interface:
+  display_name: "IR Financial HTML Updater"
+  short_description: "Update IR financial HTML from Excel"
+  default_prompt: "Use $ir-financial-html-updater to update investor relations financial HTML snippets from the provided Excel workbook."
